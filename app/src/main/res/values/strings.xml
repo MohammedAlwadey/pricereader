@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قارئ الأسعار</string>
+    <string name="menu_refresh">تحديث</string>
+    <string name="menu_change_url">تغيير الرابط</string>
+</resources>
